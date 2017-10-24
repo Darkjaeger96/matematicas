@@ -6,8 +6,10 @@ public class HolaMundo {
 	
 	public static void main (String args[]) {
 		System.out.println("Hola mundo");
-		System.out.println("Hello World");
-		
+		SaludarEnIngles();
 	}
+	public static void SaludarEnIngles(){
+		System.out.println("Hello World");
+}
 }
 
